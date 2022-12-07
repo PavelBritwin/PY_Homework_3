@@ -9,3 +9,4 @@ for i in range(random.randrange(5, 7)):
         sum += myList[i]
 print(myList)
 print(sum)
+
